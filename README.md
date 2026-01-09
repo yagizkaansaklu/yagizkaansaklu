@@ -1,59 +1,43 @@
-# 👋 Hi, I'm Yağız Kaan Şaklu
+# Selamlar, Ben Yağız Kaan! 👋
 
-I'm a developer interested in building clean, modular, and scalable applications.  
-Currently focusing on **Flutter**, **mobile architecture**, and **open-source projects**.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Developer;Open+Source+Enthusiast;Tech+Explorer" alt="Typing SVG" />
+</div>
 
----
-
-## 🚀 What I Do
-
-- 📱 Mobile app development with **Flutter**
-- 🧠 Focus on clean architecture & modular design
-- 🧩 Building extensible systems rather than one-off apps
-- 🌍 Interested in multi-platform content workflows
+### 🚀 Hakkımda
+- 🔭 Şu anda kendimi **Yazılım Geliştirme** alanında geliştiriyorum.
+- 🌱 Yeni teknolojiler öğrenmeye ve projeler üretmeye meraklıyım.
+- 💬 Benimle teknoloji, kodlama veya projeler hakkında konuşabilirsin.
+- 📫 Bana buradan ulaşabilirsin: [LinkedIn](https://www.linkedin.com/in/yagizkaansaklu/)
 
 ---
 
-## 🛠️ Tech Stack
-
-- **Languages:** Dart, Kotlin, JavaScript (basic)
-- **Frameworks:** Flutter
-- **Architecture:** Clean Architecture, MVVM-style patterns
-- **Tools:** Git, GitHub, Android Studio, VS Code
-
----
-
-## 📌 Featured Project
-
-### 🔹 ContentFlow
-A Flutter-based mobile application focused on processing content from multiple platforms through a clean, flow-based architecture.
-
-👉 https://github.com/yagizkaansaklu/contentflow
+### 🛠️ Yetenekler & Teknolojiler
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,python,html,css,git,github,vscode,linux,mysql" />
+  </a>
+</p>
 
 ---
 
-## 🌱 Currently Learning
+### 📊 GitHub İstatistiklerim
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yagizkaansaklu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagizkaansaklu&layout=compact&theme=tokyonight" />
+</div>
 
-- Advanced Flutter state management
-- Platform-specific integrations
-- Scalable project structures
-- Open-source best practices
-
----
-
-## 🤝 Open to
-
-- Open-source collaboration
-- Learning through real-world projects
-- Improving code quality and architecture
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yagizkaansaklu&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
 ---
 
-## ⭐ GitHub Stats (optional)
-
-You can add GitHub stats widgets here later if you want.
+### 📈 Aktivite Grafiği
+![Yağız Kaan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yagizkaansaklu&theme=tokyo-night)
 
 ---
 
-Thanks for stopping by 👋  
-Feel free to explore my repositories.
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yagizkaansaklu&label=Profil%20Görüntüleme&color=0e75b6&style=flat" alt="Views" />
+</div>
