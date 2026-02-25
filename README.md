@@ -38,20 +38,6 @@ Kod yazmayı sadece bir iş değil, **problem çözme sanatı** olarak görüyor
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
----
-
-## 📊 GitHub İstatistiklerim
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yagizkaansaklu&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagizkaansaklu&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📌 Öne Çıkan Projeler
 
 | Proje | Açıklama |
@@ -69,7 +55,7 @@ Kod yazmayı sadece bir iş değil, **problem çözme sanatı** olarak görüyor
 ## 🌐 Bana Ulaş
 
 - 📺 **YouTube:** https://www.youtube.com/@relinex
-- 📸 **Instagram:** https://instagram.com/ygzkaanskl
+- 📸 **Instagram:** https://instagram.com/yagizkaansaklu
 
 ---
 
